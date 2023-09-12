@@ -34,7 +34,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 
 <a href="https://github.com/beauty-force/flutter-wallet">
-  <img align="center" style="max-width:300px;" src="https://github.com/beauty-force/flutter-wallet/blob/main/screen/home.png" />
+  <img align="center" width="300px" src="https://github.com/beauty-force/flutter-wallet/blob/main/screen/home.png" />
 </a>
 <br />
 
