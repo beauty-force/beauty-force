@@ -34,7 +34,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 
 <a href="https://github.com/beauty-force/flutter-wallet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github.com/beauty-force/flutter-wallet/blob/main/screen/home.png" />
 </a>
 <br />
 
